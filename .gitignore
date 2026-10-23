@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Model checkpoints
+checkpoints_list/
+checkpoints_v3/
+
+# Generated images / outputs
+nuove_immagini/
+output_list/
+output_ste/
